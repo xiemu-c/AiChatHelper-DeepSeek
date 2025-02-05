@@ -1,0 +1,14 @@
+{
+  "name": "AiChatHelper-DeepSeek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true,
+  "devDependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2"
+  }
+}
