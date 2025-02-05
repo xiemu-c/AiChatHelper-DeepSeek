@@ -20,6 +20,7 @@ y
 
 2. Clone并运行
 ```bash
+sudo yum install -y git
 git clone https://github.com/xiemu-c/AiChatHelper-DeepSeek.git
 cd AiChatHelper-DeepSeek
 npm install
