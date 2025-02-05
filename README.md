@@ -42,6 +42,7 @@ screen -r aichathelper-deppseek
 以下操作都是在“微信助手”ChatGPT中操作：
 1. 将你的代理地址填写到“代理地址”栏。（http&#58;&#47;&#47;你的服务器IP:3000）
 2. “APIKey”中填写对应的API Key，在“模型”中按下表选择或填写。
+3. DeepSeek-R1 因为WeChat的字数限制，删除了推理过程，直接输出结果。
 
 | AI      | APIKey | 模型     |
 |    :----:   |    :----:   |    :----:   |
